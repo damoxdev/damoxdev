@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snarkrumpus
+- 👋 Hi, I’m @damoxdev
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning basic skills
 - 💞️ I’m looking to collaborate on IoT/Wearables/Fintech
