@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @damoxdev
-- 👀 I’m interested in coding
+- 👀 I’m interested in learning dynamic web coding
 - 🌱 I’m currently learning basic skills
-- 💞️ I’m looking to collaborate on risk tech
 - 📫 How to reach me X: @damoxdev
 
 <!---
